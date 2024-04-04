@@ -1,5 +1,5 @@
 # Game-of-life
-This is an educational group project from the School 21 intensive program on developing the "Game of Life" game.
+This is an educational group project from the School 21 intensive program on developing the "Game of Life" game. This project was developed during the second week of learning.
 
 ## Project Description
 
